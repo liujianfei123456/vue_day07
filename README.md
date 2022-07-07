@@ -1,4 +1,4 @@
-# vue_day07
+# vue-two
 
 ## Project setup
 ```
